@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
+
+body {
+    font-family: 'Comfortaa', cursive;
+    background-color: rgb(75, 70, 114);
+}
+
+a#resmart-nav {
+    color: antiquewhite;
+    text-shadow: 5px 5px 15px rgb(34, 34, 34);
+}
+
+.glasspanel {
+    background-color: aliceblue;
+}
+
+.col{
+    padding: 1rem;
+    text-align: center;
+    border: 2px solid blue;
+    background-color: blueviolet;
+}
+
+.con{
+    padding: 1rem;
+    text-align: center;
+}
